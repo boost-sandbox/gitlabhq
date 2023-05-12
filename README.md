@@ -8,6 +8,7 @@ If you wish to clone a copy of GitLab without proprietary code, you can use the 
 
 ## Free trial
 
+
 You can request a free trial of GitLab Ultimate [on our website](https://about.gitlab.com/free-trial/).
 
 ## Open source software to collaborate on code
